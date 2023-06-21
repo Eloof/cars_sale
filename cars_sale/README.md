@@ -26,3 +26,13 @@
 pandas
 
 matplotlib
+
+seaborn
+
+numpy
+
+sklearn
+
+lightgbm
+
+catboost
